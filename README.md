@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naveenasri-T</h1>
-<h3 align="center">Fascinated by Machine Learning and Python Development</h3>
+<h3 align="center">Fascinated by Python and Machine Learning </h3>
 
 - 🌱 I’m currently learning **problem solving in java**
 
